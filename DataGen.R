@@ -18,8 +18,9 @@ propScoreM2 = function(A, W){ # Or a function of Z
   # W --- a vec of length 3
   ###############################
   
-  # Model2 only linear part
-  # -W[1] + 0.5*W[2] - 0.1*W[3] + ......
+......
+  sdaflsdjflasf
+  erter
 }
 
 propScoreM3 = function(Z){ # Or a function of Z
